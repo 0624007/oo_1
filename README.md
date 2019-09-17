@@ -36,3 +36,9 @@
 ![nkust](nkust.png "高科大LOGO")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+```ruby
+def index
+  puts "hello world"
+end
+``` 
